@@ -76,6 +76,7 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 ---
 LeahyE2 GitHub stats (https://github-readme-stats.vercel.app/api?username=LeahyE2&show_icons=true&theme=radical)](https://github.com/LeahyE2/github-readme-stats)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LeahyE2&layout=compact&theme=radical)](https://github.com/LeahyE2/github-readme-stats)
 
 ## 📬 Connect
 
