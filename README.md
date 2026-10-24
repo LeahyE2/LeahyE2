@@ -1,4 +1,3 @@
-# Hi there, I'm Emmett 👋
 
 <!-- Animated Typing Header -->
 <p align="center">
