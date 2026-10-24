@@ -16,15 +16,14 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 
 ## 🚀 Featured Projects
 
-### 1. [Project Name: e.g., SOC Home Lab & Threat Simulation]
+### 1. []
 * **Description:** Built a miniature SOC home lab using VirtualBox, deploying a Windows Domain Controller and simulating brute-force attacks. Configured **Splunk** to ingest Windows Event Logs and created custom alert dashboards for suspicious login activities.
 * **Key Skills:** SIEM, Log Analysis, Incident Response, Windows Server.
 * **Tech Stack:** Splunk, Sysmon, PowerShell, VirtualBox.
 * **[View Project](./projects/soc-home-lab)**
 
-### 2. [Project Name: e.g., Automated Vulnerability Scanner]
-* **Description:** Developed a Python-based tool that automates network port scanning using Nmap, cross-references discovered service versions against known CVE databases, and generates a structured HTML security report.
-* **Key Skills:** Scripting, Vulnerability Assessment, API Integration.
+### 2. [Blackwood Cabin - Mystery Game]
+* **Key Skills:** X86, Vulnerability Assessment, API Integration.
 * **Tech Stack:** Python, Nmap API, Jinja2 (HTML Templating).
 * **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
 
@@ -75,6 +74,8 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 </p>
 
 ---
+LeahyE2 GitHub stats (https://github-readme-stats.vercel.app/api?username=LeahyE2&show_icons=true&theme=radical)](https://github.com/LeahyE2/github-readme-stats)
+
 
 ## 📬 Connect
 
