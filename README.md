@@ -63,24 +63,10 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
-## 📊 GitHub Stats
-(https://github-readme-stats.vercel.app/api/wakatime?username=LeahyE2&theme=radical)](https://github.com/LeahyE2/github-readme-stats)
-
-<p align="center">
-  <a href="https://github.com/LeahyE2">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%90%8B%2C+I'm+Eoin+Leahy;Software+Developer;Open+Source+Contributor;Always+Learning+New+Tech" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/LeahyE2/LeahyE2/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
-
 
 ## 📬 Connect
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+* **LinkedIn:** https://www.linkedin.com/in/emmettleahy/
 * **Website / Blog:** [emmettleahy.ie](https://emmettleahy.ie)
 * **Email:** your.email@example.com
 
