@@ -56,8 +56,6 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/x86_Assembly-00599C?style=flat-square&logo=cpu&logoColor=white" alt="x86 Assembly" />
-</p>
-
   <!-- Operating Systems & Environments -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
