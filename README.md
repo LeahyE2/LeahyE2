@@ -2,7 +2,7 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/LeahyE2">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&pause=1000&color=0091FF&center=true&vCenter=true&width=600&lines=Hi++I'm+Emmett+Leahy;Cybersecurity+Student;System+Status+ONLINE&v=3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&pause=1000&color=0091FF&center=true&vCenter=true&width=600&lines=Hi++I'm+Emmett+Leahy;Cybersecurity+Student;System+Status:+ONLINE&v=3" alt="Typing SVG" />
   </a>
 </p>
 
@@ -11,7 +11,7 @@
 
 ## 🛡️ Cybersecurity Student
 
-Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused on defensive security, threat intelligence, vulnerability assessment, and cloud security. Here, you'll find examples of my security projects, for more visit emmettleahy.ie .
+Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused on defensive security, threat intelligence, vulnerability assessment, and cloud security. Here, you'll find examples of my security projects, for more visit https://emmettleahy.ie .
 
 ---
 
