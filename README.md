@@ -48,6 +48,17 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 ### 🛠️ Tools & Technologies
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/x86_Assembly-00599C?style=flat-square&logo=cpu&logoColor=white" alt="x86 Assembly" />
+</p>
+
+<p align="center">
   <!-- Operating Systems & Environments -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
@@ -82,10 +93,10 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 
 ---
 
-## 📬 Connect With Me
+## 📬 Connect
 
 * **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-* **Website / Blog:** [yourwebsite.com](https://yourwebsite.com)
+* **Website / Blog:** [emmettleahy.ie](https://emmettleahy.ie)
 * **Email:** your.email@example.com
 
 ⭐️ *Feel free to explore my repositories, and reach out if you'd like to collaborate on security projects!*
