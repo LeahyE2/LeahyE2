@@ -1,8 +1,17 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Emmett 👋
 
-## 🛡️ Cybersecurity Professional | Security Analyst | Ethical Hacker
+<!-- Animated Security Banner -->
+<p align="center">
+  <a href="https://github.com/LeahyE2">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk3YjE1ejU5aG1jcDI2bzVwdnhrMjAxdTZtdHF3ODdrNGdhdXRmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cybersecurity Animation" width="100%" height="200" style="object-fit: cover;" />
+  </a>
+</p>
 
-Welcome to my GitHub portfolio! I am a passionate cybersecurity professional focused on defensive security, threat intelligence, vulnerability assessment, and cloud security. Here, you'll find examples of my security projects, lab write-ups, automation scripts, and Capture The Flag (CTF) challenges.
+
+
+## 🛡️ Cybersecurity Student
+
+Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused on defensive security, threat intelligence, vulnerability assessment, and cloud security. Here, you'll find examples of my security projects, for more visit emmettleahy.ie .
 
 ---
 
