@@ -1,9 +1,10 @@
 # Hi there, I'm Emmett 👋
 
 <!-- Animated Security Banner -->
+<!-- Animated Typing Header -->
 <p align="center">
-  <a href="https://github.com/LeahyE2">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWk3YjE1ejU5aG1jcDI2bzVwdnhrMjAxdTZtdHF3ODdrNGdhdXRmNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPnAiaMCws8nOsE/giphy.gif" alt="Cybersecurity Animation" width="100%" height="200" style="object-fit: cover;" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00FF66&center=true&vCenter=true&width=500&lines=Cybersecurity+Analyst;Ethical+Hacker;Threat+Hunter;Cloud+Security+Enthusiast" alt="Typing SVG" />
   </a>
 </p>
 
