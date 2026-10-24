@@ -2,7 +2,13 @@
 <!-- Animated Typing Header -->
 <p align="center">
   <a href="https://github.com/LeahyE2">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&pause=1000&color=0091FF&center=true&vCenter=true&width=600&lines=Hi++I'm+Emmett+Leahy;Cybersecurity Student;System+Initialized&v=3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&pause=1000&color=0091FF&center=true&vCenter=true&width=600&lines=Hi++I'm+Emmett+Leahy;Cybersecurity+Student;System+Initialized&v=3" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/LeahyE2">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=34&pause=1000&color=0091FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%90%8B%2C+I'm+Eoin+Leahy;Cybersecurity+%26+Tech;Root+Access+Granted;System+Status%3A+ONLINE&v=3" alt="Typing SVG" />
   </a>
 </p>
 
