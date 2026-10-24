@@ -17,7 +17,7 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 ## 🚀 Featured Projects
 
 ### Intrusion Detection System
-* **Description:** Built a miniature SOC home lab using VirtualBox, deploying a Windows Domain Controller and simulating brute-force attacks. Configured **Splunk** to ingest Windows Event Logs and created custom alert dashboards for suspicious login activities.
+* **Description:** 
 * **Key Skills:** SIEM, Log Analysis, Incident Response, Windows Server.
 * **Tech Stack:** Splunk, Sysmon, PowerShell, VirtualBox.
 * **[View Project](./projects/soc-home-lab)**
@@ -32,8 +32,6 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 * **Key Skills:** Scripting, Vulnerability Assessment, API Integration.
 * **Tech Stack:** Python, Nmap API, Jinja2 (HTML Templating).
 * **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
-
-
 ---
 
 ## 📜 CTF'S
