@@ -15,12 +15,16 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Main Projects
 
 ### Intrusion Detection System
-* **Description:** 
+* **Description:**
+Security Monitoring, Alerting & Intrusion Detection (Prometheus, Grafana, Nagios & Fail2ban)
+Built an automated monitoring and SSH threat response environment across Ubuntu and Rocky Linux VMs using Prometheus, Grafana, Alertmanager and Fail2ban, including a custom Python exporter and Discord alert bridge. Configured PromQL alert rules, real-time dashboards and automated IP banning to detect and respond to attacks, and assessed risks such as secrets management and single points of failure.
+
+
 * **Key Skills:** SIEM, Log Analysis, Incident Response, Windows Server.
-* **Tech Stack:** Splunk, Sysmon, PowerShell, VirtualBox.
+* **Tech Stack:** Prometheus, Ubuntu, Bash, VirtualBox.
 * **[View Project](./projects/soc-home-lab)**
 
 ### Blackwood Cabin - Mystery Game
@@ -28,12 +32,17 @@ Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused 
 * **Tech Stack:** Python, Nmap API, Jinja2 (HTML Templating).
 * **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
 
-### 3. [Portfolio Project]
-* **Description:** Developed a Python-based tool that automates network port scanning using Nmap, cross-references discovered service versions against known CVE databases, and generates a structured HTML security report.
-* **Key Skills:** Scripting, Vulnerability Assessment, API Integration.
-* **Tech Stack:** Python, Nmap API, Jinja2 (HTML Templating).
+### Incident Analysis
+* **Description:** 
+Incident Handling, Threat Intelligence and Risk Analysis Investigated the 2025 Trust Wallet browser extension supply chain attack ($7–8.5M stolen) as part of a four-person team. Mapped the attack to ENISA, VERIS, MITRE ATT&CK and CWE, built a STRIDE-LM threat model and recommended controls and a forensic investigation plan.
+
+* **Key Skills:** Risk analysis, Vulnerability & Threat Assessment, 
 * **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
 ---
+### Networking - Wireless Routing and Concepts Topology
+* **Description:** 
+Secure Multi-Site Healthcare Network (Cisco Packet Tracer)
+Designed and implemented a secure multi-site healthcare network as a hub-and-spoke WAN, covering VLAN segmentation, inter-VLAN routing, STP redundancy, floating static route failover, DHCP, WPA2 wireless, Layer 2 security (DHCP snooping, DAI, port security, BPDU Guard) and hardened SSH management with role-based access.
 
 ## 📜 CTF'S
 
