@@ -46,9 +46,9 @@ Designed and implemented a secure multi-site healthcare network as a hub-and-spo
 
 ## 📜 CTF'S
 
-* **ZeroDays 2026** (Expected / Achieved [Year])
-* **Sunlife** ([Year])
-* **SETU** / **HackTheBox [Rank]**
+* **ZeroDays 2026** 
+* **Sunlife 2025** 
+* **SETU - College CTF 2025** 
 
 ---
 
@@ -76,6 +76,5 @@ Designed and implemented a secure multi-site healthcare network as a hub-and-spo
 
 * **LinkedIn:** https://www.linkedin.com/in/emmettleahy/
 * **Website / Blog:** [emmettleahy.ie](https://emmettleahy.ie)
-* **Email:** your.email@example.com
 
 ⭐️ *Feel free to explore my repositories, and reach out if you'd like to collaborate on security projects!*
