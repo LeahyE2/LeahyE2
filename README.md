@@ -79,4 +79,4 @@ Designed and implemented a secure multi-site healthcare network as a hub-and-spo
 * **LinkedIn:** https://www.linkedin.com/in/emmettleahy/
 * **Website / Blog:** [emmettleahy.ie](https://emmettleahy.ie)
 
-⭐️ *Feel free to explore my repositories, and reach out if you'd like to collaborate on security projects!*
+
