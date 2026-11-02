@@ -56,7 +56,7 @@ Designed and implemented a secure multi-site healthcare network as a hub-and-spo
 
 ### 🛠️ Tools & Technologies
 
-<p align="center">
+<p>
   <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" alt="Grafana" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
