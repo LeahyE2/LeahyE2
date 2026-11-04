@@ -25,7 +25,7 @@ Built an automated monitoring and SSH threat response environment across Ubuntu 
 
 * **Key Skills:** SIEM, Log Analysis, Incident Response, Windows Server.
 * **Tech Stack:** Prometheus, Ubuntu, Bash, VirtualBox.
-* **[View Project](./projects/soc-home-lab)**
+* **[View Project](./projects/Systems-Infrastructure-Security-Project)**
 
 ### Blackwood Cabin - Mystery Game
 * **Key Skills:** X86, Vulnerability Assessment, API Integration.
