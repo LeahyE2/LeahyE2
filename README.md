@@ -25,7 +25,7 @@ Built an automated monitoring and SSH threat response environment across Ubuntu 
 
 * **Key Skills:** SIEM, Log Analysis, Incident Response, Windows Server.
 * **Tech Stack:** Prometheus, Ubuntu, Bash, VirtualBox.
-* **[View Project](./projects/Systems-Infrastructure-Security-Project)**
+* **[View Project](https://github.com/LeahyE2/Systems-Infrastructure-Security-Project)**
 
 ### Blackwood Cabin - Mystery Game
 * **Key Skills:** X86, Vulnerability Assessment, API Integration.
@@ -37,7 +37,6 @@ Built an automated monitoring and SSH threat response environment across Ubuntu 
 Incident Handling, Threat Intelligence and Risk Analysis Investigated the 2025 Trust Wallet browser extension supply chain attack ($7–8.5M stolen) as part of a four-person team. Mapped the attack to ENISA, VERIS, MITRE ATT&CK and CWE, built a STRIDE-LM threat model and recommended controls and a forensic investigation plan.
 
 * **Key Skills:** Risk analysis, Vulnerability & Threat Assessment, 
-* **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
 ---
 ### Networking - Wireless Routing and Concepts Topology
 * **Description:** 
