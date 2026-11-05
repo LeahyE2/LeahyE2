@@ -11,7 +11,7 @@
 
 ## 🛡️ Cybersecurity Student
 
-Welcome to my GitHub portfolio! I am a passionate cybersecurity student focused on defensive security, threat intelligence, vulnerability assessment, and cloud security. Here, you'll find examples of my security projects, for more visit https://emmettleahy.ie .
+Welcome to my GitHub portfolio! I am a  cybersecurity student with projects in Networking, Systems Infrastructure & Security, Incident Handling and Pentesting. Here, you'll find examples of my security projects, for more visit https://emmettleahy.ie .
 
 ---
 
