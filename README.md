@@ -22,12 +22,13 @@ Welcome to my GitHub portfolio! I am a  cybersecurity student with projects in N
 Security Monitoring, Alerting & Intrusion Detection (Prometheus, Grafana, Nagios & Fail2ban)
 Built an automated monitoring and SSH threat response environment across Ubuntu and Rocky Linux VMs using Prometheus, Grafana, Alertmanager and Fail2ban, including a custom Python exporter and Discord alert bridge. Configured PromQL alert rules, real-time dashboards and automated IP banning to detect and respond to attacks, and assessed risks such as secrets management and single points of failure.
 
-
 * **Key Skills:** SIEM, Log Analysis, Incident Response,Documentation .
 * **Tech Stack:** Prometheus, Ubuntu, Bash, VirtualBox.
+  
 * **[View Project](https://github.com/LeahyE2/Systems-Infrastructure-Security-Project)**
 
-# Security Log Analysis Tool
+
+### Security Log Analysis Tool
 * **Description:**
 
 This Tool scans SSH/auth logs and Apache-style HTTP access logs for signs of
