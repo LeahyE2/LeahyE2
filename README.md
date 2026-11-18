@@ -7,8 +7,6 @@
 </p>
 
 
-
-
 ## 🛡️ Cybersecurity Student
 
 Welcome to my GitHub portfolio! I am a  cybersecurity student with projects in Networking, Systems Infrastructure & Security, Incident Handling and Pentesting. Here, you'll find examples of my security projects, for more visit https://emmettleahy.ie .
@@ -28,13 +26,9 @@ Built an automated monitoring and SSH threat response environment across Ubuntu 
 * **[View Project](https://github.com/LeahyE2/Systems-Infrastructure-Security-Project)**
 
 
-### Security Log Analysis Tool
-* **Description:**
-
-This Tool scans SSH/auth logs and Apache-style HTTP access logs for signs of
-attack activity — brute-force login attempts and requests from known
-scanning/exploitation tools (`sqlmap`, `curl`, `wget` hitting sensitive
-paths) — and reports the results through an interactive terminal menu.
+#### 🔍 Log Analyzer Tool
+ * **Description:**
+An interactive Python tool that scans **SSH/auth logs** and **Apache-style HTTP access logs** for signs of attack activity. It detects brute-force bursts and scanner-tool probing, looks up the country of origin for each offending IP, and produces a colour-coded terminal report, a bar chart, and a saved text report.
 
 ## Features
 
@@ -59,7 +53,8 @@ paths) — and reports the results through an interactive terminal menu.
 * **Description:** 
 Incident Handling, Threat Intelligence and Risk Analysis Investigated the 2025 Trust Wallet browser extension supply chain attack ($7–8.5M stolen) as part of a four-person team. Mapped the attack to ENISA, VERIS, MITRE ATT&CK and CWE, built a STRIDE-LM threat model and recommended controls and a forensic investigation plan.
 
-* **Key Skills:** Risk analysis, Vulnerability & Threat Assessment, 
+* **Key Skills:** Risk analysis, Vulnerability & Threat Assessment,
+*  **[View Project](https://github.com/LeahyE2/Incident-Handling-And-Risk-Analysis)**
 ---
 ### Networking - Wireless Routing and Concepts Topology
 * **Description:** 
