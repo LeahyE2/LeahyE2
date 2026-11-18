@@ -43,12 +43,6 @@ An interactive Python tool that scans **SSH/auth logs** and **Apache-style HTTP 
 
 * **[View Project](https://github.com/notyounotyouu/Log-Analyzer)**
 
-### Blackwood Cabin - Mystery Game
-
-
-* **Key Skills:** X86, Vulnerability Assessment, API Integration.
-* **Tech Stack:** Python, Nmap API, Jinja2 (HTML Templating).
-* **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
 
 ### Incident Handling & Risk Analysis Project
 * **Description:** 
@@ -63,6 +57,17 @@ Secure Multi-Site Healthcare Network (Cisco Packet Tracer)
 Designed and implemented a secure multi-site healthcare network as a hub-and-spoke WAN, covering VLAN segmentation, inter-VLAN routing, STP redundancy, floating static route failover, DHCP, WPA2 wireless, Layer 2 security (DHCP snooping, DAI, port security, BPDU Guard) and hardened SSH management with role-based access.
 
 * **[View Repository](https://github.com/LeahyE2/Routing-Wireless-Concepts-Project-2026)**
+
+### Blackwood Cabin - Mystery Game 
+
+* **Description:** A text-based detective game written entirely in Motorola 68000 assembly and built to run in the Easy68K simulator. A wealthy man is dead and a blizzard has sealed the cabin. Players act as the detective, using a menu to interrogate suspects and examine crime scenes. They must collect all the clues before making their accusation.
+
+* **Key Skills:** Subroutine design (BSR/RTS), input validation with range checks, conditional branching, structured string output via TRAP calls, menu-driven program flow, flowchart planning
+
+* **Tech Stack:** Motorola 68000 (68K) Assembly, Easy68K Simulator
+
+* **[View Repository](https://github.com/LeahyE2/Mystery-Game-Project)**
+
 
 ## 📜 CTF'S
 
