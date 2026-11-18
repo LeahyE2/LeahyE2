@@ -25,7 +25,6 @@ Built an automated monitoring and SSH threat response environment across Ubuntu 
   
 * **[View Project](https://github.com/LeahyE2/Systems-Infrastructure-Security-Project)**
 
-
 ### 🔍 Log Analyzer Tool
  * **Description:**
 An interactive Python tool that scans **SSH/auth logs** and **Apache-style HTTP access logs** for signs of attack activity. It detects brute-force bursts and scanner-tool probing, looks up the country of origin for each offending IP, and produces a colour-coded terminal report, a bar chart, and a saved text report.
@@ -59,7 +58,6 @@ Designed and implemented a secure multi-site healthcare network as a hub-and-spo
 * **[View Repository](https://github.com/LeahyE2/Routing-Wireless-Concepts-Project-2026)**
 
 ### Blackwood Cabin - Mystery Game 
-
 * **Description:** A text-based detective game written entirely in Motorola 68000 assembly and built to run in the Easy68K simulator. A wealthy man is dead and a blizzard has sealed the cabin. Players act as the detective, using a menu to interrogate suspects and examine crime scenes. They must collect all the clues before making their accusation.
 
 * **Key Skills:** Subroutine design (BSR/RTS), input validation with range checks, conditional branching, structured string output via TRAP calls, menu-driven program flow, flowchart planning
