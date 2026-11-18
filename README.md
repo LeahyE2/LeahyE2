@@ -23,16 +23,38 @@ Security Monitoring, Alerting & Intrusion Detection (Prometheus, Grafana, Nagios
 Built an automated monitoring and SSH threat response environment across Ubuntu and Rocky Linux VMs using Prometheus, Grafana, Alertmanager and Fail2ban, including a custom Python exporter and Discord alert bridge. Configured PromQL alert rules, real-time dashboards and automated IP banning to detect and respond to attacks, and assessed risks such as secrets management and single points of failure.
 
 
-* **Key Skills:** SIEM, Log Analysis, Incident Response, Windows Server.
+* **Key Skills:** SIEM, Log Analysis, Incident Response,Documentation .
 * **Tech Stack:** Prometheus, Ubuntu, Bash, VirtualBox.
 * **[View Project](https://github.com/LeahyE2/Systems-Infrastructure-Security-Project)**
+
+# Security Log Analysis Tool
+* **Description:**
+
+This Tool scans SSH/auth logs and Apache-style HTTP access logs for signs of
+attack activity — brute-force login attempts and requests from known
+scanning/exploitation tools (`sqlmap`, `curl`, `wget` hitting sensitive
+paths) — and reports the results through an interactive terminal menu.
+
+## Features
+
+- **Brute-force detection**: flags any IP with 5+ failed login attempts
+  within a 10-minute sliding window (SSH `Failed password` / HTTP 4xx/5xx
+  and sensitive-path requests).
+- **Suspicious tool detection**: flags IPs whose HTTP requests combine a
+  sensitive path (`admin`, `login`, `phpinfo`, `secret`, `passwd`) with a
+  known scanning/automation user agent (`sqlmap`, `curl`, `wget`).
+- **GeoIP lookup**: resolves the country of origin for public IPs (private
+  IPs are labeled `Private Address`).
+
+* **[View Project](https://github.com/notyounotyouu/Log-Analyzer)**
+
 
 ### Blackwood Cabin - Mystery Game
 * **Key Skills:** X86, Vulnerability Assessment, API Integration.
 * **Tech Stack:** Python, Nmap API, Jinja2 (HTML Templating).
 * **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
 
-### Incident Analysis
+### Incident Handling & Risk Analysis Project
 * **Description:** 
 Incident Handling, Threat Intelligence and Risk Analysis Investigated the 2025 Trust Wallet browser extension supply chain attack ($7–8.5M stolen) as part of a four-person team. Mapped the attack to ENISA, VERIS, MITRE ATT&CK and CWE, built a STRIDE-LM threat model and recommended controls and a forensic investigation plan.
 
