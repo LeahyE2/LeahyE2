@@ -15,7 +15,7 @@ Welcome to my GitHub portfolio! I am a  cybersecurity student with projects in N
 
 ## 🚀 Main Projects
 
-### Intrusion Detection System
+### :rotating_light: Intrusion Detection System
 * **Description:**
 Security Monitoring, Alerting & Intrusion Detection (Prometheus, Grafana, Nagios & Fail2ban)
 Built an automated monitoring and SSH threat response environment across Ubuntu and Rocky Linux VMs using Prometheus, Grafana, Alertmanager and Fail2ban, including a custom Python exporter and Discord alert bridge. Configured PromQL alert rules, real-time dashboards and automated IP banning to detect and respond to attacks, and assessed risks such as secrets management and single points of failure.
