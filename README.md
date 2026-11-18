@@ -26,11 +26,11 @@ Built an automated monitoring and SSH threat response environment across Ubuntu 
 * **[View Project](https://github.com/LeahyE2/Systems-Infrastructure-Security-Project)**
 
 
-#### 🔍 Log Analyzer Tool
+### 🔍 Log Analyzer Tool
  * **Description:**
 An interactive Python tool that scans **SSH/auth logs** and **Apache-style HTTP access logs** for signs of attack activity. It detects brute-force bursts and scanner-tool probing, looks up the country of origin for each offending IP, and produces a colour-coded terminal report, a bar chart, and a saved text report.
 
-## Features
+#### Features
 
 - **Brute-force detection**: flags any IP with 5+ failed login attempts
   within a 10-minute sliding window (SSH `Failed password` / HTTP 4xx/5xx
@@ -43,8 +43,9 @@ An interactive Python tool that scans **SSH/auth logs** and **Apache-style HTTP 
 
 * **[View Project](https://github.com/notyounotyouu/Log-Analyzer)**
 
-
 ### Blackwood Cabin - Mystery Game
+
+
 * **Key Skills:** X86, Vulnerability Assessment, API Integration.
 * **Tech Stack:** Python, Nmap API, Jinja2 (HTML Templating).
 * **[View Repository](https://github.com/LeahyE2/Mystery-game-Project)**
