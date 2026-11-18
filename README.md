@@ -24,7 +24,7 @@ Built an automated monitoring and SSH threat response environment across Ubuntu 
 * **Tech Stack:** Prometheus, Ubuntu, Bash, VirtualBox.
   
 * **[View Project](https://github.com/LeahyE2/Systems-Infrastructure-Security-Project)**
-
+---
 ### 🔍 Log Analyzer Tool
  * **Description:**
 An interactive Python tool that scans **SSH/auth logs** and **Apache-style HTTP access logs** for signs of attack activity. It detects brute-force bursts and scanner-tool probing, looks up the country of origin for each offending IP, and produces a colour-coded terminal report, a bar chart, and a saved text report.
@@ -42,7 +42,7 @@ An interactive Python tool that scans **SSH/auth logs** and **Apache-style HTTP 
 
 * **[View Project](https://github.com/notyounotyouu/Log-Analyzer)**
 
-
+---
 ### Incident Handling & Risk Analysis Project
 * **Description:** 
 Incident Handling, Threat Intelligence and Risk Analysis Investigated the 2025 Trust Wallet browser extension supply chain attack ($7–8.5M stolen) as part of a four-person team. Mapped the attack to ENISA, VERIS, MITRE ATT&CK and CWE, built a STRIDE-LM threat model and recommended controls and a forensic investigation plan.
@@ -56,16 +56,16 @@ Secure Multi-Site Healthcare Network (Cisco Packet Tracer)
 Designed and implemented a secure multi-site healthcare network as a hub-and-spoke WAN, covering VLAN segmentation, inter-VLAN routing, STP redundancy, floating static route failover, DHCP, WPA2 wireless, Layer 2 security (DHCP snooping, DAI, port security, BPDU Guard) and hardened SSH management with role-based access.
 
 * **[View Repository](https://github.com/LeahyE2/Routing-Wireless-Concepts-Project-2026)**
-
+---
 ### Blackwood Cabin - Mystery Game 
 * **Description:** A text-based detective game written entirely in Motorola 68000 assembly and built to run in the Easy68K simulator. A wealthy man is dead and a blizzard has sealed the cabin. Players act as the detective, using a menu to interrogate suspects and examine crime scenes. They must collect all the clues before making their accusation.
 
 * **Key Skills:** Subroutine design (BSR/RTS), input validation with range checks, conditional branching, structured string output via TRAP calls, menu-driven program flow, flowchart planning
 
 * **Tech Stack:** Motorola 68000 (68K) Assembly, Easy68K Simulator
-
 * **[View Repository](https://github.com/LeahyE2/Mystery-Game-Project)**
 
+---
 
 ## 📜 CTF'S
 
